@@ -10,4 +10,7 @@ Don't forget to source the new script.
 $ source .bashrc
 ```
 
+# Notes for .bashrc and .profile
 
+These two configuration files are obtained form the default .bashrc and .profile 
+of Ubuntu 16.04 LTS and modified on top of that.
