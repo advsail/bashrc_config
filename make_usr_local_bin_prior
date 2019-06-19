@@ -1,0 +1,2 @@
+# Make /usr/local/bin prior than /usr/bin for vim on Mac
+PATH="/usr/local/bin:$PATH"
